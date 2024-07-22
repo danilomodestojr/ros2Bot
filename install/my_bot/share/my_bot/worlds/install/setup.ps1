@@ -1,0 +1,1 @@
+/home/mjr/ros2_ws/src/my_bot/worlds/install/setup.ps1
